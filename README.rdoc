@@ -1,4 +1,4 @@
-== README - updated
+This is a Test Rails Blog App - Bryan Coburn (theRhino)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
